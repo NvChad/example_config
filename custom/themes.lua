@@ -6,12 +6,12 @@ local M
 M = {
   tokyonight = {
     base_30 = {
-      statusline_bg = "#mycol",
+      statusline_bg = "NONE",
     },
   },
   onedark = {
     base_16 = {
-      base00 = "#mycol",
+      base00 = "blue",
     },
   },
 }
