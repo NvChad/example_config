@@ -11,7 +11,7 @@ M = {
   },
   onedark = {
     base_16 = {
-      base00 = "blue",
+      base0F = "red",
     },
   },
 }
